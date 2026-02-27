@@ -17,3 +17,6 @@ console.log(typeof(num));
 num=undefined;
 console.log(num);
 console.log(typeof(num));
+
+
+
